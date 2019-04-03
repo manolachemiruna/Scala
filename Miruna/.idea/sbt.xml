@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$USER_HOME$/busyMachines/Busy 1" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/busyMachines/Busy 1" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/algebra-http-sec" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/algebra-imdb" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/algebra-movie" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/algebra-user" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-config" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-core" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-db" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-db-config" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-effects" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-email" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-http" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-json" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/pms-logger" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/project" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/server" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/server-bootstrap" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/service-movie" />
+            <option value="$USER_HOME$/busyMachines/Busy 1/service-user" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="4096" />
+    <option name="vmParameters" value="-XX:MaxPermSize=2048M" />
+  </component>
+</project>

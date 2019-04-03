@@ -1,0 +1,1 @@
+val x2=new Miruna2()

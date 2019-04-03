@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-http-sec.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-http-sec.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-imdb.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-imdb.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-movie.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-movie.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-user.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/algebra-user.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-config.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-config.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-core.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-core.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-db.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-db.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-db-config.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-db-config.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-effects.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-effects.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-email.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-email.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-http.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-http.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-json.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-json.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-logger.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pms-logger.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pure-movie-server.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pure-movie-server.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/pure-movie-server-build.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/pure-movie-server-build.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/server.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/server.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/server-bootstrap.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/server-bootstrap.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/service-movie.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/service-movie.iml" />
+      <module fileurl="file://$USER_HOME$/busyMachines/Busy 1/.idea/modules/service-user.iml" filepath="$USER_HOME$/busyMachines/Busy 1/.idea/modules/service-user.iml" />
+    </modules>
+  </component>
+</project>

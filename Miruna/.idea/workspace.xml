@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd9690dc-1fd8-4420-8ef6-15a2931e8161" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/project/project/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/project/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/algebra-movie/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-logger/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/server-bootstrap/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-json/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/server/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/service-user/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-http/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-config/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-effects/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-db-config/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/service-movie/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/algebra-user/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-core/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/algebra-imdb/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-email/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/algebra-http-sec/target/" />
+    <ignored path="$USER_HOME$/busyMachines/Busy 1/pms-db/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$USER_HOME$/busyMachines/Busy 1">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/busyMachines/Busy 1/server/src/main/scala/pms/server/ModulePureMovieServerBootstrap.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-497">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/busyMachines/Busy 1/server/src/main/scala/pms/server/PureMovieServerApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-83">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/busyMachines/Busy 1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1222" />
+    <option name="height" value="635" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Miruna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busy 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Miruna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busy 1" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Miruna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busy 1" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Miruna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busy 1" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Miruna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busy 1" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Miruna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Busy 1" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/busyMachines/Busy 1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="pure-movie-server" />
+              <option name="path" value="$USER_HOME$/busyMachines/Busy 1" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="algebra-movie [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/algebra-movie" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-logger [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-logger" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pure-movie-server [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="server-bootstrap [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/server-bootstrap" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-json [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-json" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="server [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/server" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="service-user [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/service-user" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-http [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-http" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-config [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-config" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-effects [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-effects" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-db-config [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-db-config" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="service-movie [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/service-movie" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="algebra-user [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/algebra-user" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-core [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-core" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="algebra-imdb [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/algebra-imdb" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-email [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-email" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="algebra-http-sec [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/algebra-http-sec" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pms-db [file:/home/denisu/busyMachines/Busy%201/]" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/pms-db" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pure-movie-server-build" />
+                <option name="path" value="$USER_HOME$/busyMachines/Busy 1/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/busyMachines/Busy 1/build.sbt" value="3550250875" />
+        <entry key="$USER_HOME$/busyMachines/Busy 1/project/build.properties" value="2567920773" />
+        <entry key="$USER_HOME$/busyMachines/Busy 1/project/plugins.sbt" value="983207858" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd9690dc-1fd8-4420-8ef6-15a2931e8161" name="Default Changelist" comment="" />
+      <created>1554305335611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554305335611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962063" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TeamCity" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/busyMachines/Busy 1/server/src/main/scala/pms/server/ModulePureMovieServerBootstrap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/busyMachines/Busy 1/server/src/main/scala/pms/server/PureMovieServerApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>busy-1_2030-build</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
